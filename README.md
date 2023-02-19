@@ -1,6 +1,5 @@
 # Implantación de aplicaciones web PHP en docker 
 
----
 
 En este repositorio, subiré los archivos necesarios para la resolución de la práctica.
 
